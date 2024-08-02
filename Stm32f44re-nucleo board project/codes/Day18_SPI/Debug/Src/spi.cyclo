@@ -1,0 +1,3 @@
+../Src/spi.c:10:6:GPIO_init	1
+../Src/spi.c:32:6:SPI1_master	1
+../Src/spi.c:50:6:SPI3_slave	1
